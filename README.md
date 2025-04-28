@@ -1,4 +1,3 @@
-# Task Tracker App
 
 A simple webpage to introduce an app. Built with HTML, CSS, and bootstrap.
 
